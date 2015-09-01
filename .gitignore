@@ -2,6 +2,25 @@
 Thumbs.db
 ehthumbs.db
 
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.project
+.metadata
+bin/
+gen/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
 # Folder config file
 Desktop.ini
 
